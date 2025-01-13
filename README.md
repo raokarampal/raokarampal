@@ -22,7 +22,7 @@ object Developer {
     val specialization = "Compose Multiplatform"
     
     val skills = mapOf(
-        "Mobile" to listOf("Android", "Compose", "KMP", "Flutter"),
+        "Mobile" to listOf("Android", "Compose MultiplatForm", "KMP", "Flutter"),
         "Backend" to listOf("Ktor", "NestJS", "GraphQL", "RESTful APIs"),
         "Architecture" to listOf("MVVM", "Clean Architecture", "MVI")
     )
