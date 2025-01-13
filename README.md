@@ -9,7 +9,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="/api/placeholder/400/320">
 
 ### 🚀 About Me
 
