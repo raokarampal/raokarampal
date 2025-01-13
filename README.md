@@ -57,11 +57,11 @@ object Developer {
 
 ### 🤝 Let's Connect!
 
-- 💼 Open for freelance projects on [Upwork](https://www.upwork.com/freelancers/~01edf6b58bcd7bfad9)
-- 🐦 Follow my dev journey on [X](https://x.com/raokarampal)
-- 📷 Behind the scenes on [Instagram](https://instagram.com/raokarampal)
-- ✍️ Read my articles on [learncompose.online](https://learncompose.online)
-- ☕ Support my work on [Buy Me a Coffee](https://buymeacoffee.com/raokarampal)
+- 💼 Open for freelance projects on [![Hire Me on Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01edf6b58bcd7bfad9)
+- 🐦 Follow my dev journey on [![Follow me on X](https://img.shields.io/badge/-Follow%20@raokarampal-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/raokarampal)
+- 📷 Behind the scenes on [![Follow me on Instagram](https://img.shields.io/badge/-Follow%20@raokarampal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/raokarampal)
+- ✍️ Read my articles on [![Learn Compose Online](https://img.shields.io/badge/-Learn%20Compose%20Online-0078D7?style=flat-square&logo=google-chrome&logoColor=white)](https://learncompose.online)
+- ☕ Support my work on [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raokarampal)
 
 <div align="center">
 
