@@ -58,7 +58,7 @@ object Developer {
 ### 🤝 Let's Connect!
 
 - 💼 Open for freelance projects on [Upwork](https://www.upwork.com/freelancers/~01edf6b58bcd7bfad9)
-- 🐦 Follow my dev journey on [X]((https://x.com/raokarampal))
+- 🐦 Follow my dev journey on [X](https://x.com/raokarampal)
 - 📷 Behind the scenes on [Instagram](https://instagram.com/raokarampal)
 - ✍️ Read my articles on [learncompose.online](https://learncompose.online)
 - ☕ Support my work on [Buy Me a Coffee](https://buymeacoffee.com/raokarampal)
